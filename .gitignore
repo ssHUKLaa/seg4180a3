@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+Scripts/
 
 # Distribution / packaging
 .Python
@@ -179,3 +180,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+share/man/man1/ttx.1
